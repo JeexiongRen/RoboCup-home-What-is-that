@@ -1,6 +1,4 @@
----
-title: RoboCup@home-What-is-that
----
+# RoboCup@home-What-is-that
 
 
 本仓库存储2023RoboCup世界杯中国赛What is that 题目的代码。本队在此项目获得了1400分的成绩（满分1750分）。
